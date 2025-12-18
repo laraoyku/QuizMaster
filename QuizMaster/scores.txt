@@ -1,0 +1,10 @@
+melis,2
+sıla,0
+mert,1
+ilke,2
+yiğit,0
+elif,1
+irem,3
+lara,3
+öykü,3
+alex,1

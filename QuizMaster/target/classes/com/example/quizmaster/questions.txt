@@ -1,0 +1,4 @@
+What is the capital of Germany?|Berlin,Munich,Hamburg,Frankfurt|0
+Which language runs on the JVM?|Java,Python,C++,JavaScript|0
+
+

@@ -1,0 +1,4 @@
+#AUTHOR:irem
+Who is the nicest person in the world?|öykü, sıla, irem, melis|2
+What is irem's favorite color?|black, blue, red, pink|1
+How old is irem?|20, 21, 22, 23|3

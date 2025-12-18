@@ -1,0 +1,2 @@
+#AUTHOR:öykü
+What is the capital of Turkey?|istanbul, ankara, çanakkale, bursa|1

@@ -1,0 +1,4 @@
+#AUTHOR:elif
+What is the biggest ocean in the world?|atlantic, indian, pacific, arctic|2
+What is the capital of France?|berlin, madrid, paris, rome|2
+Which planet is known as the red planet?|earth, mars, jupiter, venus|1
